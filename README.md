@@ -1,25 +1,7 @@
-# 3D-slides
+# CSS and JS-Powered 3D Assassin Scene with Image Slider
 
-Assassin cool 3D scene with slider
+Creating a realistic and engaging 3D environment on a webpage can be a challenging task, but with the power of CSS and JavaScript, it is possible to build an interactive and immersive experience for users. 
 
-## Add your files
+We used CSS to style the webpage and create a layout that would showcase the 3D model in the best way possible. To bring the 3D model to life, we used JavaScript to create an animation that simulates a 3D environment. We used CSS transformations and animations to move the 3D model around the webpage and create the illusion of depth. This allowed us to create an interactive and realistic 3D environment that users can explore.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
-
-```
-cd existing_repo
-git remote add origin https://gitlab.com/VladSn/3d-slides.git
-git branch -M main
-git push -uf origin main
-```
-
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+To enhance the user experience, we added a slider feature that allows users to explore different levels within the 3D environment. Using JavaScript, we created a slider that can be controlled by the user to navigate through different parts of the 3D scene. 
